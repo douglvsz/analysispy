@@ -7,6 +7,7 @@ analysispy/
 │
 ├── app.py
 ├── histograma.py
+├── figures
 ├── table.csv
 ├── README.md
 └── requirements.txt
