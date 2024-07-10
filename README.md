@@ -36,7 +36,7 @@ Este script calcula e exibe estatísticas descritivas das idades das pessoas vac
 ```bash
 python app.py
 ```
-##Exemplo de saída:
+## Exemplo de saída:
 ```
 Geral: {'Media': 45.2, 'Mediana': 44.0, 'Moda': 45, 'Desvio Padrão': 15.1, 'Variância': 228.9, 'Quartil': 20, 'Assimetria': 0.67}
 MASCULINO: {'Media': 44.8, 'Mediana': 44.0, 'Moda': 45, 'Desvio Padrão': 14.9, 'Variância': 222.0, 'Quartil': 19, 'Assimetria': 0.65}
@@ -55,7 +55,9 @@ Resultados
 Distribuição das Idades:
 Distribuição dos Sexos:
 
-
+# Link para baixar a tabela:
+# Após fazer o download, altere o nome para "table"
+http://dados.recife.pe.gov.br/datastore/dump/bceb5759-5500-49db-bc86-b038892acc06?bom=True
 
 Este projeto está licenciado sob a licença MIT.
 
